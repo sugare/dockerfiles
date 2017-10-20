@@ -1,3 +1,3 @@
 FROM ubuntu
 
-MAINTAINER Wei Zhou <cszhouwei@gmail.com>
+MAINTAINER Wei Zhou
