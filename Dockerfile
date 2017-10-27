@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.4
+FROM gcr.io/kubernetes-helm/tiller:v2.1.3
 MAINTAINER sugare
