@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd:3.0.17
+FROM gcr.io/google_containers/hyperkube-amd64:v1.8.2
 MAINTAINER sugare
