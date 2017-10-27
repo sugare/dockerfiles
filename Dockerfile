@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.7.0
+FROM gcr.io/google_containers/etcd:3.0.17
 MAINTAINER sugare
