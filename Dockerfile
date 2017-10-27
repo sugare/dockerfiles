@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-aggregator:v1.8.0
+FROM gcr.io/google_containers/pause-amd64:3.0
 MAINTAINER sugare
