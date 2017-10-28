@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kibana:v4.6.1
+FROM gcr.io/kubernetes-helm/tiller:v2.2.2
 MAINTAINER sugare
