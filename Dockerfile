@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.2
+FROM k8s-dns-sidecar-amd64:1.14.2
 MAINTAINER sugare
