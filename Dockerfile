@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.6.3
+FROM gcr.io/google_containers/gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.1.1
 MAINTAINER sugare
