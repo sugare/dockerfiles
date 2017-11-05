@@ -1,3 +1,3 @@
-﻿FROM gcr.io/google_containers/nginx-ingress-controller:0.8.3
+﻿FROM gcr.io/google_containers/defaultbackend:1.0
 
 MAINTAINER Sugare
