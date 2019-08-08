@@ -1,2 +1,2 @@
-FROM gcr.io/heptio-images/sonobuoy-plugin-systemd-logs:latest
+FROM gcr.io/heptio-images/kube-conformance:v1.12
 MAINTAINER Sugare
