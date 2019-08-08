@@ -1,3 +1,2 @@
-FROM cargo.caicloudprivatetest.com/library/busybox:1.25.0
+FROM gcr.io/heptio-images/sonobuoy:v0.15.1
 MAINTAINER Sugare
-CMD ["echo", "HELLO"]
